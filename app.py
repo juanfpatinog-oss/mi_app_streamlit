@@ -1,4 +1,3 @@
-app.py
 #Cargamos librerías principales
 import numpy as np
 import pandas as pd
